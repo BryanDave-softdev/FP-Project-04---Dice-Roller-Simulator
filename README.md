@@ -14,4 +14,4 @@ Every time you run the app, it simulates the roll of a six-sided die and returns
 
 ## Screenshot
 
-[Dice Roller Simulator Screenshot](dice-roller-screenshot.png)
+[Dice Roller Simulator Screenshot](dice-roller-simulator.PNG)
