@@ -11,3 +11,7 @@ Every time you run the app, it simulates the roll of a six-sided die and returns
 - User can choose to roll again or exit  
 - Uses Python's `random` module for randomness  
 - Beginner-friendly, fully interactive CLI experienc
+
+## Screenshot
+
+![Dice Roller Simulator Screenshot](dice-roller-screenshot.png)
